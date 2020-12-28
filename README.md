@@ -27,7 +27,7 @@
 | 256 |  0.560| 0.347|0.386|
 | 512 |  0.548| 0.343|0.386|
 
-# Classification Results (CNCB-NCOV Segmentation Dataset, (http://ncov-ai.big.ac.cn/)
+# Classification Results (CNCB-NCOV Classification Dataset, (http://ncov-ai.big.ac.cn/)
 
 |  \# Affinities	| COVID-19 	| CP 	| Normal 	| F1 score|
 |:-:	|:-:	|:-:	|:-:|:-:|
@@ -37,12 +37,12 @@
 | 256 | **91.74%**|85.35% |97.26%|91.94%|
 | 512 | 90.27% |84.53%| **99.41%**|92.34%|
 
-# Classification Results (CNCB-NCOV Segmentation Dataset, (http://ncov-ai.big.ac.cn/)
+# Classification Results (iCTCF-CT Classification Dataset, (http://http://ictcf.biocuckoo.cn//)
 
-|  \# Affinities	| COVID-19 	| CP 	| Normal 	| F1 score|
-|:-:	|:-:	|:-:	|:-:|:-:|
-|  32	| 89.39%	|80.25%|98.96% 	|90.30% |
-| 64 | 90.68% 	|83.60% 	|97.15% |91.00% 	|
-|128 | 86.91% 	| **95.65%** 	|95.45%|**93.80%**|
-| 256 | **91.74%**|85.35% |97.26%|91.94%|
-| 512 | 90.27% |84.53%| **99.41%**|92.34%|
+|  \# Affinities	| COVID-19 	| Normal 	| F1 score|
+|:-:	|:-:	|:-:	|:-:|
+|  32	| %	|80.25%	|90.30% |
+| 64 | 90.68% 	 	|97.15% |91.00% 	|
+|128 | 86.91% 	 	|95.45%|**93.80%**|
+| 256 | 91.74%|97.26%|91.94%|
+| 512 | 90.27% **99.41%**|92.34%|
