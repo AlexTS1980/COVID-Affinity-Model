@@ -17,7 +17,7 @@
 <img src="https://github.com/AlexTS1980/COVID-Affinity-Model/blob/master/figures/x_feats_ncp.png" width="350" height="150" align="center"/>
 </p>
 
-# Segmentation Results (CNCB-NCOV Segmentation Dataset, (http://ncov-ai.big.ac.cn/)
+# Segmentation Results (CNCB-NCOV Segmentation Dataset, (http://ncov-ai.big.ac.cn)
 
 |  \# Affinities	| AP@0.5 	| AP@0.75 	| mAP@[0.5:0.95:0.05] 	| 
 |:-:	|:-:	|:-:	|:-:|
@@ -27,7 +27,7 @@
 | 256 |  0.560| 0.347|0.386|
 | 512 |  0.548| 0.343|0.386|
 
-# Classification Results (CNCB-NCOV Classification Dataset, (http://ncov-ai.big.ac.cn/)
+# Classification Results (CNCB-NCOV Classification Dataset, (http://ncov-ai.big.ac.cn)
 
 |  \# Affinities	| COVID-19 	| CP 	| Normal 	| F1 score|
 |:-:	|:-:	|:-:	|:-:|:-:|
@@ -37,7 +37,7 @@
 | 256 | **91.74%**|85.35% |97.26%|91.94%|
 | 512 | 90.27% |84.53%| **99.41%**|92.34%|
 
-# Classification Results (iCTCF-CT Classification Dataset, (http://http://ictcf.biocuckoo.cn//)
+# Classification Results (iCTCF-CT Classification Dataset, (http://http://ictcf.biocuckoo.cn)
 
 |  \# Affinities	| COVID-19 	| Normal 	| F1 score|
 |:-:	|:-:	|:-:	|:-:|
