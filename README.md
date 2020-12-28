@@ -9,7 +9,7 @@
 
 <p align="center">
 <img src="https://github.com/AlexTS1980/COVID-Affinity-Model/blob/master/figures/masks.png" width="350" height="200" align="center"/>
-</p>
+</p>  
 
 ### Affinity matrix for a COVID-19 image. Left column: after 1 epoch, right column: after 100 epochs
 
@@ -37,12 +37,12 @@
 | 256 | **91.74%**|85.35% |97.26%|91.94%|
 | 512 | 90.27% |84.53%| **99.41%**|92.34%|
 
-# Classification Results (iCTCF-CT Classification Dataset, (http://http://ictcf.biocuckoo.cn)
+# Classification Results (iCTCF-CT Classification Dataset, (http://ictcf.biocuckoo.cn)
 
 |  \# Affinities	| COVID-19 	| Normal 	| F1 score|
 |:-:	|:-:	|:-:	|:-:|
-|  32	| %	|80.25%	|90.30% |
-| 64 | 90.68% 	 	|97.15% |91.00% 	|
-|128 | 86.91% 	 	|95.45%|**93.80%**|
-| 256 | 91.74%|97.26%|91.94%|
-| 512 | 90.27% **99.41%**|92.34%|
+|  32	| 92.11%	|80.31%	|83.67% |
+| 64 | 86.73%	|94.20% |92.00% 	|
+|128 | 88.88%	|83.85%|85.27%|
+| 256 | 77.41%|93.33%|88.78%|
+| 512 | .% .%|.%|
