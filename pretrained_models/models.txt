@@ -1,0 +1,7 @@
+PRETRAINED MODELS:
+
+1. CNCB-NCOV dataset:
+https://drive.google.com/file/d/1TiMjkeeM49_yEqwmHj18ZF9498x_KCyt/view?usp=sharing
+
+2. iCTCF-CT datasets:
+https://drive.google.com/file/d/1DgO_tr9Fqgoaz6wnBdN8NnbeFU_3q5Jy/view?usp=sharing
