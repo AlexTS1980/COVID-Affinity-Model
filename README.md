@@ -46,10 +46,18 @@
 |128 | 88.88%	|83.85%|85.27%|
 | 256 | 77.41%|93.33%|88.78%|
 | 512 | 90.49% |89.96%|90.11%|
+## Data 
+CNCB-NCOV data: (ncov-ai.big.ac.cn/download) with COVIDx-CT [splits](https://github.com/haydengunraj/COVIDNet-CT/blob/master/docs/dataset.md).
 
-To test the model:
+iCTCF-CT data: (http://ictcf.biocuckoo.cn/HUST-19.php). Download the nCT(no disease) data. Train and test splits are provided in this repository. I changed the image names to match the convention used in COVIDx-CT: `0` for Negative and `2` for COVID-19.  
+
+## Testing/Evaluating The Model
+To test the model trained on CNCB-NCOV datasets:
 ```
 python3.5 test_classification_branch.py --ckpt pretrained_models/affinity_model_128.pth --test_data cncb_ncov/test --device cuda --affinity 128
+```
+To test the model trained on iCTCF-CT dataset:
+```
 python3.5 test_classification_branch.py --ckpt pretrained_models/affinity_model_ictcf_64.pth --test_data ictcf/test --device cuda --affinity 64
 ```
-This outputs confusion matrix and F1 score
+This outputs confusion matrix and F1 score above. Links to models are in `pretrained_models` directory. 
