@@ -46,3 +46,10 @@
 |128 | 88.88%	|83.85%|85.27%|
 | 256 | 77.41%|93.33%|88.78%|
 | 512 | 90.49% |89.96%|90.11%|
+
+To test the model:
+```
+python3.5 test_classification_branch.py --ckpt pretrained_models/affinity_model_128.pth --test_data cncb_ncov/test --device cuda --affinity 128
+python3.5 test_classification_branch.py --ckpt pretrained_models/affinity_model_ictcf_64.pth --test_data ictcf/test --device cuda --affinity 64
+```
+This outputs confusion matrix and F1 score
