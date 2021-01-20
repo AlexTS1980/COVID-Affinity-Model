@@ -2,7 +2,8 @@
 BibTex:
 ```
 @article{ter2020one,
-  title={One Shot Model For The Prediction of COVID-19 and Lesions Segmentation In Chest CT Scans Through The Affinity Among Lesion Mask Features},
+  title={One Shot Model For The Prediction of COVID-19 and Lesions 
+  Segmentation In Chest CT Scans Through The Affinity Among Lesion Mask Features},
   author={Ter-Sarkisov, Aram},
   journal={medRxiv},
   pages={2020--12},
