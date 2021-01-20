@@ -1,5 +1,15 @@
 # COVID-Affinity-Model
-
+BibTex:
+```
+@article{ter2020one,
+  title={One Shot Model For The Prediction of COVID-19 and Lesions Segmentation In Chest CT Scans Through The Affinity Among Lesion Mask Features},
+  author={Ter-Sarkisov, Aram},
+  journal={medRxiv},
+  pages={2020--12},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory Press}
+}
+```
 ### Affinity model
 <p align="center">
 <img src="https://github.com/AlexTS1980/COVID-Affinity-Model/blob/master/figures/ssd_affinity.png" width="550" height="200" align="center"/>
