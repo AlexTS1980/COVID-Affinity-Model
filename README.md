@@ -1,4 +1,5 @@
-**Update 03/12/21: To appear in *Applied Soft Computing***
+## Update from 03/12/21: To appear in *Applied Soft Computing
+
 # COVID-Affinity-Model
 BibTex:
 ```
