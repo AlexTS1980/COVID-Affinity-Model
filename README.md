@@ -14,6 +14,7 @@ BibTex (preprint):
   year={2020},
   publisher={Cold Spring Harbor Laboratory Press}
 }
+```
 Bibtex (published):
 ```
 @article{TERSARKISOV2022108261,
@@ -25,6 +26,7 @@ year = {2022},
 issn = {1568-4946},
 doi = {https://doi.org/10.1016/j.asoc.2021.108261},
 author = {Aram Ter-Sarkisov}}
+```
 ### Affinity model
 <p align="center">
 <img src="https://github.com/AlexTS1980/COVID-Affinity-Model/blob/master/figures/ssd_affinity.png" width="550" height="200" align="center"/>
