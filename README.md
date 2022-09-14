@@ -1,4 +1,4 @@
-### Update from 14/09/22: Published in Applied Soft Computing, 116-108261, February 2022, 
+### Update from 14/09/22: Published in Applied Soft Computing, February 2022, Volume 116, pages 108261
 
 ### Update from 03/12/21: To appear in Applied Soft Computing
 
