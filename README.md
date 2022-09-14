@@ -15,7 +15,7 @@ BibTex (preprint):
   publisher={Cold Spring Harbor Laboratory Press}
 }
 ```
-Bibtex (published):
+Bibtex (published version):
 ```
 @article{TERSARKISOV2022108261,
 title = {One Shot Model For The Prediction of COVID-19 And Lesions Segmentation In Chest CT Scans Through The Affinity Among Lesion Mask Features},
