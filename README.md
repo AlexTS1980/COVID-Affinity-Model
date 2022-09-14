@@ -1,8 +1,9 @@
-## Update from 14/09/22: Published in Applied Soft Computing, 116-108261, February 2022, DOI https://doi.org/10.1016/j.asoc.2021.108261
+## Update from 14/09/22: Published in Applied Soft Computing, 116-108261, February 2022, 
+DOI https://doi.org/10.1016/j.asoc.2021.108261
 ## Update from 03/12/21: To appear in Applied Soft Computing
 
 # COVID-Affinity-Model
-BibTex:
+BibTex (preprint):
 ```
 @article{ter2020one,
   title={One Shot Model For The Prediction of COVID-19 and Lesions 
@@ -13,7 +14,17 @@ BibTex:
   year={2020},
   publisher={Cold Spring Harbor Laboratory Press}
 }
+Bibtex (published):
 ```
+@article{TERSARKISOV2022108261,
+title = {One Shot Model For The Prediction of COVID-19 And Lesions Segmentation In Chest CT Scans Through The Affinity Among Lesion Mask Features},
+journal = {Applied Soft Computing},
+volume = {116},
+pages = {108261},
+year = {2022},
+issn = {1568-4946},
+doi = {https://doi.org/10.1016/j.asoc.2021.108261},
+author = {Aram Ter-Sarkisov}}
 ### Affinity model
 <p align="center">
 <img src="https://github.com/AlexTS1980/COVID-Affinity-Model/blob/master/figures/ssd_affinity.png" width="550" height="200" align="center"/>
