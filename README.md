@@ -3,7 +3,7 @@
 ### Update from 03/12/21: To appear in Applied Soft Computing
 
 # COVID-Affinity-Model
-BibTex (preprint):
+BibTex citation (preprint):
 ```
 @article{ter2020one,
   title={One Shot Model For The Prediction of COVID-19 and Lesions 
@@ -15,7 +15,7 @@ BibTex (preprint):
   publisher={Cold Spring Harbor Laboratory Press}
 }
 ```
-Bibtex (published version):
+Bibtex citation (journal publication):
 ```
 @article{TERSARKISOV2022108261,
 title = {One Shot Model For The Prediction of COVID-19 And Lesions Segmentation In Chest CT Scans Through The Affinity Among Lesion Mask Features},
