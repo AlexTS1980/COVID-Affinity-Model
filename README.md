@@ -1,5 +1,5 @@
 # Update from 14/09/22: Published in Applied Soft Computing, 116-108261, February 2022, 
-DOI https://doi.org/10.1016/j.asoc.2021.108261
+# DOI https://doi.org/10.1016/j.asoc.2021.108261
 # Update from 03/12/21: To appear in Applied Soft Computing
 
 # COVID-Affinity-Model
